@@ -4,9 +4,12 @@ body {
 .container {
 	width: 750px;
 }
+.navbar-custom{
+	background-color : #428bca	
+}
 
 .hero-spacer {
-	margin-top: 50px;
+	margin-top: 20px;
 }
 
 .hero-feature {
