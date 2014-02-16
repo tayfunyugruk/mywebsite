@@ -113,7 +113,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap requires jQuery'
   // ALERT PLUGIN DEFINITION
   // =======================
 
-  var old = $.fn.alert
+  var old = $.fn.alert;
 
   $.fn.alert = function (option) {
     return this.each(function () {
