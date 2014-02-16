@@ -4,8 +4,14 @@ body {
 .container {
 	width: 750px;
 }
+
 .navbar-custom{
 	background-color : #428bca	
+}
+
+.navbar .nav.pull-right {
+    float: right;
+    margin-right: 0px; /*set margin this way in your custom styesheet*/
 }
 
 .hero-spacer {
